@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "pulse_energy_calc_v2",
-    "slug": "pulse_energy_calc_v2",
-    "version": "1.0.0",
+    "name": "Calculate Pulse Energy",
+    "slug": "calculatepulseenergy",
+    "version": "2.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./icons/iconEnergy.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./icons/iconEnergy.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,13 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./icons/iconEnergy.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "host.exp.exponent"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./icons/iconEnergy.png"
     }
   }
 }
