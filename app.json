@@ -1,8 +1,9 @@
 {
   "expo": {
     "name": "Calculate Pulse Energy",
-    "slug": "calculatepulseenergy",
+    "slug": "calcpulseenergyv2",
     "version": "2.0.0",
+
     "orientation": "portrait",
     "icon": "./icons/iconEnergy.png",
     "splash": {
